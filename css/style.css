@@ -788,9 +788,13 @@ video {
 
 @media screen and (max-width: 768px) {
   .mycon {
-    max-width: 14rem;
+    max-width: 10rem;
     margin-top: 3rem;
     margin-left: 0 !important;
+  }
+  .mycon a {
+    padding: 0.5rem 1.2rem 0.5rem 1.2rem;
+    border-radius: 10px 10px 10px 10px;
   }
   .menu {
     margin-top: -0.4rem !important;
