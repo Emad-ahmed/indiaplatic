@@ -691,7 +691,9 @@ video {
 
 @media screen and (max-width: 768px) {
     .mycon {
+        max-width: 10rem;
         margin-top: 3rem;
+        margin-left: 1rem !important;
     }
     .menu {
         margin-top: -0.4rem !important;
